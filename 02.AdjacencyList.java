@@ -1,3 +1,4 @@
+//Space comp for undirected: O(2E). For directed garph: O(E) where E is number of edges
 class Solution{
   public static void main(String args[]){
     Scanner sc=new Scanner(System.in);
