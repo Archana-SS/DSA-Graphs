@@ -1,3 +1,4 @@
+//Space complexity: O(N^2)  // or O(N*M)
 class Solution{
   public static void main(String args[]){
     Scanner sc=new Scanner(System.in);
